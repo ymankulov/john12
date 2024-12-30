@@ -416,6 +416,9 @@ body {
     }
   }
   .work-block {
+    img {
+      width: 50%;
+    }
     p {
       font-size: 10px;
       line-height: 17px;
